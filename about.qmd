@@ -6,7 +6,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/513evan
     - icon: github
       text: GitHub
       href: https://github.com
@@ -17,5 +17,6 @@ Currently pursuing a Master of Science in Business Analytics at the University o
 
 I am passionate about using data to enhance financial systems, improve risk management, and support strategic decision-making in global banking and international trade.
 
-www.linkedin.com/in/513evan
+
+
 
