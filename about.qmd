@@ -11,5 +11,4 @@ about:
       text: GitHub
       href: https://github.com
 ---
-
-Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?
+www.linkedin.com/in/513evan
